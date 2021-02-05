@@ -1,3 +1,3 @@
 # Tensorflow Practice
 
-Just a collection of practice notebooks
+Just a collection of notebooks for practicing Tensorflow
